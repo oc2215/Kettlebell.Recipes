@@ -8,7 +8,7 @@ It has been proven that mainstream media is slanted, and is a business like many
 
 **The Facts are the Facts**, _but can they be manipulated_ and `do we really look at the evidence the artice is based on?`
 
-[Link](https://nypost.com/) and ![https://images.app.goo.gl/VUeb6gyedjVbKG1q6](src)
+
 ```
 
 Fake News are everywhere. When we fail to look deeper, we fall into the trap of sensationalist media reports that are devoid of truth. 
