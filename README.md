@@ -1,16 +1,14 @@
-## The Kettlebell Recipes
+## The Simple Truth
+This blog will analyze news from a skeptic's perspective. It will look into the reporter's content, their sources with the hope of proving truths and exposing lies. 
 
-Is a site for experimentation with Kettlebell workouts with nutrition goals to match. I'll detail workouts to follow monthly along with pre/post pics and results. The content is open to comments to help long the path.
+### Media is Biased
+It has been proven that mainstream media is slanted, and is a business like many others, which seek two main things:
+- Increasing Profit Margin
+- Increasing readership
 
-### 16:8 FAST
-This will be the eating pattern, which has been working nicely and has me down to 196lbs.
+**The Facts are the Facts**, _but can they be manipulated_ and `do we really look at the evidence the artice is based on?`
 
-- Bulleted
-- List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://nypost.com/) and ![https://images.app.goo.gl/VUeb6gyedjVbKG1q6](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
