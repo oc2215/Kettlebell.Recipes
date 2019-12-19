@@ -1,25 +1,12 @@
-## Welcome to GitHub Pages
+## The Kettlebell Recipes
 
-You can use the [editor on GitHub](https://github.com/oc2215/Kettlebell.Recipes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Is a site for experimentation with Kettlebell workouts with nutrition goals to match. I'll detail workouts to follow monthly along with pre/post pics and results. The content is open to comments to help long the path.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### 16:8 FAST
+This will be the eating pattern, which has been working nicely and has me down to 196lbs.
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
