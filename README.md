@@ -1,17 +1,17 @@
 ## The Simple Truth
-This blog will analyze news from a skeptic's perspective. It will look into the reporter's content, their sources with the hope of proving truths and exposing lies. 
+The Simple Truth is that God loves you. Even if you do not love yourself. Even if you do not love the world. Even if you do not love God.
 
-### Media is Biased
-It has been proven that mainstream media is slanted, and is a business like many others, which seek two main things:
-- Increasing Profit Margin
-- Increasing readership
-
-**The Facts are the Facts**, _but can they be manipulated_ and `do we really look at the evidence the artice is based on?`
+### He Gave
+To all who were willing to accept, to those who asked, to those in need...
+- You don't have to be the picture or epitome of holiness
+- All you need is faith the size of a mustard seed
+**I am an example**, _I have suffered_ and `but I have persevered`
 
 
 ```
 
-Fake News are everywhere. When we fail to look deeper, we fall into the trap of sensationalist media reports that are devoid of truth. 
+Happy are those who know they are spiritually poot;
+the kingdom of heaven belongs to them!
 
-### NY Post
-is more tabloid than newspaper, yet the daily reader does not care enough to see the truth. Look deeper, ask questions, don't be led. 
+```
+
