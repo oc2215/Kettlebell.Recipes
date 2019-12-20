@@ -5,7 +5,7 @@ The Simple Truth is that God loves you. Even if you do not love yourself. Even i
 To all who were willing to accept, to those who asked, to those in need...
 - You don't have to be the picture or epitome of holiness
 - All you need is faith the size of a mustard seed
-**I am an example**, _I have suffered_ and `but I have persevered`
+**I am an example**... _I have suffered_ `but I have persevered`
 
 
 ```
