@@ -10,7 +10,7 @@ To all who were willing to accept, to those who asked, to those in need...
 
 ```
 
-Happy are those who know they are spiritually poot;
+Happy are those who know they are spiritually poor;
 the kingdom of heaven belongs to them!
 
 ```
